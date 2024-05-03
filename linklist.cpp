@@ -216,6 +216,13 @@ int main()
             case '4':
                 revtraverse();
                 break;
+            case '5':
+                searchData();
+                break;
+            case '6':
+                return 0;
+        
+            
         }
         
     
